@@ -2,6 +2,6 @@
 
 repository="https://github.com/vinay8899/styldod.git"
 
-localFolder="/Users/myname/dev/myfolder"
+##localFolder="/Users/myname/dev/myfolder"
 
-git clone $repository" "$localFolder
+git clone $repository
