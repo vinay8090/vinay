@@ -1,7 +1,6 @@
 #/bin/bash
 
 repository="https://github.com/vinay8899/styldod.git"
+localFolder="/root/test"
 
-##localFolder="/Users/myname/dev/myfolder"
-
-git clone $repository
+git clone $repository" " $localFolder
